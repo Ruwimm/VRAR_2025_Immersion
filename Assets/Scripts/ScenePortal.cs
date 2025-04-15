@@ -5,6 +5,7 @@ using UnityEngine.InputSystem;
 public class ScenePortal : MonoBehaviour
 {
     public string sceneName = "ZielSzene";
+    public GameObject hintUI;
     public InputActionReference activateInput; // z.B. Trigger-Taste vom Controller
     private bool isPlayerNear = false;
 
@@ -20,8 +21,8 @@ public class ScenePortal : MonoBehaviour
 
     void Update()
     {   
-        Debug.Log("isPlayerNear: " + isPlayerNear);
-        Debug.Log("activateInput.action.WasPressedThisFrame(): " + activateInput.action.WasPressedThisFrame());
+        // Debug.Log("isPlayerNear: " + isPlayerNear);
+        // Debug.Log("activateInput.action.WasPressedThisFrame(): " + activateInput.action.WasPressedThisFrame());
         if (isPlayerNear && activateInput.action.WasPressedThisFrame())
         {
             Debug.Log("Teleporting to " + sceneName);
@@ -35,6 +36,7 @@ public class ScenePortal : MonoBehaviour
         if (other.CompareTag("MainCamera")) // XR Camera Tag setzen!
         {
             isPlayerNear = true;
+            hintUI.SetActive(true);
         }
     }
 
@@ -43,6 +45,7 @@ public class ScenePortal : MonoBehaviour
         if (other.CompareTag("MainCamera"))
         {
             isPlayerNear = false;
+            hintUI.SetActive(false);
         }
     }
 }
