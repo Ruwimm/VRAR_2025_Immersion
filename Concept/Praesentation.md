@@ -1,0 +1,1 @@
+# Kurze Präsentation von Konzept
