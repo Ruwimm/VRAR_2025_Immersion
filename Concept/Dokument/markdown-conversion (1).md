@@ -19,9 +19,9 @@ Ziel des Projekts: Durch die Gestaltung mehrerer Szenarien sollen unterschiedlic
 - Daniil Folco | Github ID: almatched
 
 **Grobe Aufgabenverteilung:**
-- Lobby: Github ID: Ruwimm
-- Level 1: Github ID: C-Goh
+- Lobby (Level 1): Github ID: Ruwimm
 - Level 2: Github ID: almatched
+- Level 3: Github ID: C-Goh
 
 ### Meilensteine und Zeitplan:
 - Durch die Aufgabenverteilung werden die 3 Level parallel entwickelt.
@@ -49,6 +49,20 @@ Ziel des Projekts: Durch die Gestaltung mehrerer Szenarien sollen unterschiedlic
 - Ruwim Merling | Github ID: Ruwimm
 - Daniil Folco | Github ID: almatched
 - Nina Gierke | Github ID: C-Goh
+
+Ruwim Merling | Github ID: Ruwimm
+
+![alt text](https://github.com/Ruwimm/VRAR_2025_Immersion/blob/main/Concept/Images/level-1.png "Issues Level 1")
+
+
+Nina Gierke | Github ID: C-Goh
+
+![alt text](https://github.com/Ruwimm/VRAR_2025_Immersion/blob/main/Concept/Images/level-2.png "Issues Level 2")
+
+
+Daniil Folco | Github ID: almatched
+
+![alt text](https://github.com/Ruwimm/VRAR_2025_Immersion/blob/main/Concept/Images/level-3.png "Issues Level 3")
 
 **Levelübergreifende Funktionen**
 - Grundlegende Steuerung
@@ -141,7 +155,16 @@ Um die Thematik Immersion für den Nutzer greifbarer und verständlicher zu gest
 **Ablauf:**
 Der Nutzer startet in einem leeren Raum. Eine Erzählerstimme weist ihn kurz in die Thematik ein. Anschließend wird eine 2D Grafik hinzugefügt. Dem Nutzer fällt auf, dass das 2D Element nicht passend für einen 3D Raum scheint. Der Erzähler erklärt ihm, warum dies der Fall ist und fordert ihn auf, mit der Grafik zu interagieren, sodass diese 3D wird. Nach diesem Prinzip werden verschiedene Bestandteile, wie Farbwahl, Level Design und Audio im Vorher-Nachher-Stil vergleichend aufgezeigt und von dem Erzähler kommentiert. Hat der Nutzer alle Etappen durchlaufen, kann er nun eigenständig sein immersives Level gestalten, welches anschließend vom System bewertet wird.
 
-![Abb. 1: Ablaufdiagramm Level 1](images/ablaufdiagramm_level1.png)
+![alt text](https://github.com/Ruwimm/VRAR_2025_Immersion/blob/main/Concept/Images/ablauf-level-3.png "Issues Level 3")
+
+
+
+
+
+
+
+
+
 
 **Didaktisches Konzept**
 
