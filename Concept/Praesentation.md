@@ -10,9 +10,9 @@ Untersuchung und Vermittlung von **Immersion und Präsenz** in VR anhand interak
 ## Organisatorisches
 
 **Team:**  
-- Nina Gierke – Level 1  
-- Ruwim Merling – Lobby  
-- Daniil Folco – Level 2  
+- Ruwim Merling – Level 1  
+- Daniil Folco – Level 2
+- Nina Gierke – Level 3 
 
 **Ablauf:**  
 Parallele Levelentwicklung, zentrale Verwaltung über gemeinsames GitHub-Repo mit Issues und Meilensteinen.
