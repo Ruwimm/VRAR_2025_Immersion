@@ -1,4 +1,4 @@
-Log file open, 06/19/25 12:05:39
+﻿Log file open, 06/19/25 12:05:39
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -17,8 +17,8 @@ LogCsvProfiler: Display: Metadata set : platform="Windows"
 LogCsvProfiler: Display: Metadata set : config="Development"
 LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.4-CL-35576357"
 LogCsvProfiler: Display: Metadata set : engineversion="5.4.4-35576357+++UE5+Release-5.4"
-LogCsvProfiler: Display: Metadata set : os="Windows 11 (24H2) [10.0.26100.4351] "
-LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 9700X 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.5854] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz"
 LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
 LogCsvProfiler: Display: Metadata set : ltoenabled="0"
@@ -262,12 +262,12 @@ LogEOSSDK: Initializing EOSSDK Version:1.16.3-32303053
 LogInit: ExecutableName: UnrealEditor.exe
 LogInit: Build: ++UE5+Release-5.4-CL-35576357
 LogInit: Platform=WindowsEditor
-LogInit: MachineId=79f0d8c6432d8f68c04a16a21ed1d417
+LogInit: MachineId=c659d8b648a9036a66180c94afba91b1
 LogInit: DeviceId=
 LogInit: Engine Version: 5.4.4-35576357+++UE5+Release-5.4
 LogInit: Compatible Engine Version: 5.4.0-33043543+++UE5+Release-5.4
 LogInit: Net CL: 33043543
-LogInit: OS: Windows 11 (24H2) [10.0.26100.4351] (), CPU: AMD Ryzen 7 9700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 4070 SUPER
+LogInit: OS: Windows 10 (22H2) [10.0.19045.5854] (), CPU: 11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz, GPU: NVIDIA GeForce RTX 3060 Ti
 LogInit: Compiled (64-bit): Aug 16 2024 04:10:34
 LogInit: Architecture: x64
 LogInit: Compiled with Visual C++: 19.38.33130.00
