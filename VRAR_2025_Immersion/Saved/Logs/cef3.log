@@ -1,18 +1,1 @@
-[0702/122548.744:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0702/122626.061:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
-
-[0702/122626.099:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(125,1): warning X4000: use of potentially uninitialized variable (f_mainImage)
-
-[0702/122626.135:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
-
-[0702/122626.326:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
-[0702/122626.453:ERROR:gl_utils.cc(314)] [.WebGL-0000059BAD176700] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0702/122626.465:ERROR:gl_utils.cc(314)] [.WebGL-0000059BAD176700] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0702/122747.692:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0712/134905.339:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
