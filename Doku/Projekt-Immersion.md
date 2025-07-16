@@ -13,6 +13,31 @@ Ziel des Projekts ist es, durch die Gestaltung von zwei VR-Leveln unterschiedlic
 - Ruwim Merling 
 - Daniil Folco
 
+## Aufgabenverteilung (Altes Konzept)
+
+### Ruwim Merling | GitHub: `Ruwimm`
+  - Lobby Level erstellt
+  - Assets erstellt
+  - VR Player Controller erstellt
+  - Teleportation eingestellt
+  - Mit Code animierte Assets erstellt
+  - Logik für Teleportation auf bewegten Plattformen
+
+
+
+---
+### Daniil Folco | GitHub: `almatched`
+  - Level Malen mit Audio erstellt
+  - Codelogik für Mikrofoneingang zum Malen
+  - Mikrofoneingang und Controller als Kombination zum malen
+  - Tonhöhe verändert die Farbe
+  - Lautstärke verändert die Farbe
+  - Mit Controller wird die Linie geführt
+---
+
+### Nina Gierke | GitHub: `C-Goh`
+
+---
 ## Aufgabenverteilung (Überarbeitetes Konzept)
 
 ### Gemeinsam:
