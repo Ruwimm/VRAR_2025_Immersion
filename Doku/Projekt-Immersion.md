@@ -12,6 +12,34 @@ Ziel des Projekts ist es, durch die Gestaltung von zwei VR-Leveln unterschiedlic
 - Nina Gierke  
 - Ruwim Merling 
 - Daniil Folco
+## Aufgabenverteilung (Altes Konzept)
+
+### Ruwim Merling | GitHub: `Ruwimm`
+ - Lobby Level erstellt
+ - Assets modelliert
+ - Assets in Unity mit Code animiert
+ - VR Controller eingerichtet
+ - Logik für Teleport Area auf bewegten Assets
+
+---
+### Daniil Folco | GitHub: `almatched`
+
+-Level Malen mit Audio erstellt
+-
+-
+-
+-
+-
+-
+
+
+
+---
+### Nina Gierke | GitHub: `C-Goh`
+
+
+
+---
 
 ## Aufgabenverteilung (Überarbeitetes Konzept)
 
