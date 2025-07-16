@@ -28,10 +28,14 @@ Ziel des Projekts ist es, durch die Gestaltung von zwei VR-Leveln unterschiedlic
 ---
 ### Daniil Folco | GitHub: `almatched`
   - Level Malen mit Audio erstellt
-  - Codelogik für Mikrofoneingang zum Malen
-  - Mikrofoneingang und Controller als Kombination zum malen
-  - Tonhöhe verändert die Farbe
-  - Lautstärke verändert die Farbe
+  - Variante 1: Codelogik für Mikrofoneingang zum Malen
+  - Farbe und Pinselstrich werden voreingestellt
+  - Mikroeingang zur Linienführung
+  - Tonhöhe als Y-Achse
+  - Lautstärke als X-Achse
+  - Variante 2: Mikrofoneingang und Controller als Kombination zum malen
+  - Tonhöhe auf Farbe mappen
+  - Lautstärke auf Pinselstrich-Dicke mappen
   - Mit Controller wird die Linie geführt
 ---
 
