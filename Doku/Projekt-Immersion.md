@@ -12,11 +12,63 @@ Ziel des Projekts ist es, durch die Gestaltung von zwei VR-Leveln unterschiedlic
 - Nina Gierke  
 - Ruwim Merling 
 - Daniil Folco
-  
+
+## Aufgabenverteilung (Überarbeitetes Konzept)
+
+### Gemeinsam:
+
+- Brainstorming  
+- Ausarbeitung der Konzept-Dokumente  
+- Co-Working Sessions  
+- Organisation des Repositories  
+- Korrektur & Review der Arbeitsergebnisse
+
+---
+
+### Ruwim Merling | GitHub: `Ruwimm`
+
+- Erstellung von **Level 2**  
+- Level- und Environment-Design  
+- Implementierung von Assets  
+- Spatial Audio implementiert  
+- Grabable Objects definiert  
+- Assets animiert und eingefügt  
+- Light Settings & Light Baking  
+- Performance Testing
+
+---
+
+### Daniil Folco | GitHub: `almatched`
+
+- Projektlogik  
+- Audio Toggle  
+- Color Toggle  
+- HDRI Toggle & Auswahl  
+- Grab Toggle  
+- Menülogik (Buttons, Navigation, Zustandswechsel)  
+- Speichern von Audio/Color/HDRI/Grab-Zuständen  
+- Debugging  
+- Testing: Funktionen, Performance, Features  
+- Anpassung der Project Settings
+
+---
+
+### Nina Gierke | GitHub: `C-Goh`
+
+- Benutzer-UI & Menüs  
+- Speicherung der Nutzereingaben in der Game Instance  
+- Erstellung der Projekt-Timeline (Tutorial)  
+- Voice Creation  
+- Unreal Engine 5 Setup  
+- Funktionstests  
+- Debugging
+
+
 **Meilensteine:**  
 - 31.05.2025: Projektsetup, Einarbeitung  
 - 15.06.2025: Grobe Funktionen und Level-Design  
 - 30.06.2025: Feintuning und Tests  
+
 
 
 ### Ablauf
