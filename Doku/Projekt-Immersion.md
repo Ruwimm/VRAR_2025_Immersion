@@ -3,39 +3,108 @@
 ## Projektübersicht
 
 **Ziel:**  
-Untersuchung und Vermittlung von **Immersion und Präsenz** in VR anhand interaktiver, didaktisch gestalteter Levels. Die Teilnehmenden erleben und gestalten unterschiedliche immersive Szenarien und reflektieren deren Wirkung.
-
+Ziel des Projekts ist es, durch die Gestaltung von zwei VR-Leveln unterschiedliche Aspekte von Immersion und Präsenz erlebbar zu machen. Dabei liegt der Fokus auf einer explorativen Auseinandersetzung mit Wirkmechanismen wie Raumgestaltung, Interaktion, sensorische Reize und narrative Einbindung. Die Teilnehmenden reflektieren deren Wirkung.
 ---
 
 ## Organisatorisches
 
 **Team:**  
-- Nina Gierke – Level 1  
-- Ruwim Merling – Lobby  
-- Daniil Folco – Level 2  
+- Nina Gierke  
+- Ruwim Merling 
+- Daniil Folco 
 
-**Ablauf:**  
-Parallele Levelentwicklung, zentrale Verwaltung über gemeinsames GitHub-Repo mit Issues und Meilensteinen.
+### Ablauf
+
+- Start in leerem Raum mit Erzähler  
+- Schrittweise Einführung von 2D/3D-Grafiken  
+- Interaktive Vergleiche von Farbwahl, Licht, Audio etc.  
+- Eigenes immersives Level erstellen  
+- Bewertung durch das System
 
 **Meilensteine:**  
 - 31.05.2025: Projektsetup, Einarbeitung  
 - 15.06.2025: Grobe Funktionen und Level-Design  
 - 30.06.2025: Feintuning und Tests  
 
+### Lernziele
+
+- 2D vs. 3D visuell nachvollziehen  
+- Wirkung von Farbe, Textur, HDRI, Audio erfassen  
+- Kombination visueller und auditiver Mittel  
+- Eigene Gestaltung kritisch reflektieren
 ---
 
+
+### Didaktische Prinzipien
+
+- **Konstruktivismus**, **Behaviorismus**, **Konnektivismus**  
+- Multisensorisches Lernen  
+- Progressive Komplexität  
+- Feedback & Bewertung  
+- Gamification durch Erzähler
+
+### Featureliste
+
+- 3D Static Meshes  
+- Audio & Effekte  
+- Visual Effects  
+- HDRI Hintergründe  
+- Kamera-Filter  
+- Mesh-Texturen
+
+### Interaktion
+
+- Terminal mit Auswahl von Objekten und Effekten  
+- Drag & Drop von Audio-/VFX-Würfeln  
+- Terminal verschwindet nach Entfernung – reaktivierbar  
+- Möglichkeit zur Bewertung des eigenen Levels
+
+
+### Bewertungskriterien
+
+**1. Elementnutzung & Vielfalt (quantitativ):**
+
+- Anzahl 3D-Objekte  
+- Platzierung & Diversität von Audio  
+- Kombination von Audio/Visual Effects  
+- Nutzung von HDRI & Filtern
+
+**2. Sensorische Kohärenz (qualitativ):**
+
+- Stimmigkeit von Licht, Textur, Soundscape  
+- Keine widersprüchlichen Reize  
+- Realistische Atmosphäre
+
+### Beispiel-Scoreboard (Systemrückmeldung)
+
+- Visuelle Immersion: 8/10  
+- Audio-Immersion: 6.5/10  
+- Kohärenz: 7/10  
+- Kreativität: 9/10  
+- **Gesamtscore: 7.9/10**
+
+---
+
+## Level 2 – Immersion erleben (Best Practice)
+
+Ein Referenzlevel, das gezielt ein hohes Maß an Immersion erzeugt und als Inspiration dient.
+
+### Ziel
+
+- Immersion intuitiv erlebbar machen  
+- Hochwertige Kombination aller Mittel  
+- Ästhetisches Beispiel für gute Gestaltung
+
+### Inhalte
+
+- Stimmige Lichtstimmung mit HDRI  
+- Glühwürmchen als VFX  
+- Räumlich platzierte Audioquellen (spatialized)  
+- Greifbare/interaktive Elemente  
+- Freies Erkunden  
+- Möglichkeit zum Umschalten von Features (wie in Level 1)
+- 
 ## Levelübersicht
-
-### Lobby – Interaktive Levelauswahl  
-- Sphärischer Raum mit schwebenden thematischen Würfeln  
-- Multisensorische Vorschauen (Sound, Licht, Haptik)  
-- **Immersion An/Aus-Schalter** für Vergleich immersiver und reizreduzierter Räume  
-- **Passiv-Presence-Modus:** Aktiviert bei Inaktivität → Förderung stiller Präsenz  
-
-**Didaktischer Effekt:**  
-Erfahrung des Einflusses von Immersionselementen und Raumgestaltung auf Präsenzgefühl.
-
----
 
 ### Level 1 – Immersion verstehen lernen  
 - Geführte Erzählung durch den Raum  
@@ -51,28 +120,14 @@ Erfahrung des Einflusses von Immersionselementen und Raumgestaltung auf Präsenz
 
 ---
 
-### Level 2 – Malen mit Musik  
-- Audio- und Controller-gesteuertes Malen auf virtueller Leinwand  
-- **Tonhöhe → Farbe**  
-- **Lautstärke → Dicke**  
-- **Rhythmus (Peaks) → Richtungswechsel**  
-- Wählbare Steuerung: Audio / Controller / Kombination  
-- Aufgaben: Visualisierungsbeobachtung, freies Malen, Motivnachbildung  
-
-**Didaktische Methode:**  
-- Rezeption → Exploration → Produktion → Reflexion  
-
-**UX- und Evaluationsansätze:**  
-- Immersion mit/ohne visuelle Reize  
-- Motivation durch audio-visuelle Vorlagen  
-- Kongruenz zwischen Audioeigenschaften und visuellen Effekten  
-- Steuerungspräferenz und Wechselanalyse (Audio ↔ Controller)
+### Level 2 – Beispiellevel  
+-
 
 ---
 
 ## Fazit & Besonderheiten  
 
-- Drei didaktisch strukturierte VR-Level mit hohem multisensorischem Fokus  
+- Zwei VR-Level mit hohem multisensorischem Fokus  
 - Schwerpunkt auf aktives Erleben und Gestaltung  
 - Integration von didaktischen Prinzipien: **Learning by Doing, progressive Steuerung, Feedbacksystem**  
 - Immersive Vermittlung durch Raumakustik, visuelle Interaktion und Haptik  
