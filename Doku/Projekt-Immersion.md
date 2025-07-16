@@ -12,6 +12,11 @@ Ziel des Projekts ist es, durch die Gestaltung von zwei VR-Leveln unterschiedlic
 - Nina Gierke  
 - Ruwim Merling 
 - Daniil Folco 
+**Meilensteine:**  
+- 31.05.2025: Projektsetup, Einarbeitung  
+- 15.06.2025: Grobe Funktionen und Level-Design  
+- 30.06.2025: Feintuning und Tests  
+
 
 ### Ablauf
 
@@ -21,10 +26,6 @@ Ziel des Projekts ist es, durch die Gestaltung von zwei VR-Leveln unterschiedlic
 - Eigenes immersives Level erstellen  
 - Bewertung durch das System
 
-**Meilensteine:**  
-- 31.05.2025: Projektsetup, Einarbeitung  
-- 15.06.2025: Grobe Funktionen und Level-Design  
-- 30.06.2025: Feintuning und Tests  
 
 ### Lernziele
 
@@ -84,6 +85,19 @@ Ziel des Projekts ist es, durch die Gestaltung von zwei VR-Leveln unterschiedlic
 - **Gesamtscore: 7.9/10**
 
 ---
+## Levelübersicht
+
+### Level 1 – Immersion verstehen lernen  
+- Geführte Erzählung durch den Raum  
+- Vergleich 2D/3D, Audio, Licht und Textur in Vorher-Nachher-Situationen  
+- Interaktives Gestalten eines eigenen immersiven Raums  
+- Systemische Bewertung nach Kriterien (Immersion, Audio, Kohärenz, Kreativität)
+
+**Didaktische Prinzipien:**  
+- Learning by Doing  
+- Multisensorisches Lernen  
+- Progressive Komplexität  
+- Gamification  
 
 ## Level 2 – Immersion erleben (Best Practice)
 
@@ -103,27 +117,10 @@ Ein Referenzlevel, das gezielt ein hohes Maß an Immersion erzeugt und als Inspi
 - Greifbare/interaktive Elemente  
 - Freies Erkunden  
 - Möglichkeit zum Umschalten von Features (wie in Level 1)
-- 
-## Levelübersicht
 
-### Level 1 – Immersion verstehen lernen  
-- Geführte Erzählung durch den Raum  
-- Vergleich 2D/3D, Audio, Licht und Textur in Vorher-Nachher-Situationen  
-- Interaktives Gestalten eines eigenen immersiven Raums  
-- Systemische Bewertung nach Kriterien (Immersion, Audio, Kohärenz, Kreativität)
-
-**Didaktische Prinzipien:**  
-- Learning by Doing  
-- Multisensorisches Lernen  
-- Progressive Komplexität  
-- Gamification  
 
 ---
 
-### Level 2 – Beispiellevel  
--
-
----
 
 ## Fazit & Besonderheiten  
 
