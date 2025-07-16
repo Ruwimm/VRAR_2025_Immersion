@@ -3,7 +3,7 @@
 ## Projektübersicht
 
 **Ziel:**  
-Ziel des Projekts ist es, durch die Gestaltung von zwei VR-Leveln unterschiedliche Aspekte von Immersion und Präsenz erlebbar zu machen. Dabei liegt der Fokus auf einer explorativen Auseinandersetzung mit Wirkmechanismen wie Raumgestaltung, Interaktion, sensorische Reize und narrative Einbindung. Die Teilnehmenden reflektieren deren Wirkung.
+Ziel des Projekts ist es, durch die Gestaltung von zwei VR-Leveln unterschiedliche Aspekte von Immersion erlebbar zu machen. Dabei liegt der Fokus auf einer explorativen Auseinandersetzung mit Wirkmechanismen wie Raumgestaltung, Interaktion, sensorische Reize und narrative Einbindung. Die Teilnehmenden reflektieren deren Wirkung.
 ---
 
 ## Organisatorisches
@@ -40,7 +40,10 @@ Ziel des Projekts ist es, durch die Gestaltung von zwei VR-Leveln unterschiedlic
 ---
 
 ### Nina Gierke | GitHub: `C-Goh`
-
+  - Thematische Recherche
+  - Featureplanung
+  - Projektmanagment
+  - Projektleitung
 ---
 ## Aufgabenverteilung (Überarbeitetes Konzept)
 
@@ -102,16 +105,16 @@ Ziel des Projekts ist es, durch die Gestaltung von zwei VR-Leveln unterschiedlic
 
 ### Ablauf
 
-- Start in leerem Raum mit Erzähler  
-- Schrittweise Einführung von 2D/3D-Grafiken  
-- Interaktive Vergleiche von Farbwahl, Licht, Audio etc.  
-- Eigenes immersives Level erstellen  
-- Bewertung durch das System
+- Start in leerem Raum mit Erzähler    
+- Interaktive Vergleiche von Farbwahl, Audio etc.
+- Toggle von greifbaren Objekten  
+- Eigenes immersives Level erstellen
+- Abfrage vom Immersionsgefühl
+- Beispiellevel am Ende zum Vergleich
 
 
 ### Lernziele
 
-- 2D vs. 3D visuell nachvollziehen  
 - Wirkung von Farbe, Textur, HDRI, Audio erfassen  
 - Kombination visueller und auditiver Mittel  
 - Eigene Gestaltung kritisch reflektieren
@@ -137,43 +140,23 @@ Ziel des Projekts ist es, durch die Gestaltung von zwei VR-Leveln unterschiedlic
 
 ### Interaktion
 
-- Terminal mit Auswahl von Objekten und Effekten  
-- Drag & Drop von Audio-/VFX-Würfeln  
-- Terminal verschwindet nach Entfernung – reaktivierbar  
-- Möglichkeit zur Bewertung des eigenen Levels
+- Menü in der Hand
+- Auswahl/Toggle von Audio, HDRIs, Assets, Filter, Grabability
+- Haptic Feedback
+- Abfrage des Immersionsgefühls
 
-
-### Bewertungskriterien
-
-**1. Elementnutzung & Vielfalt (quantitativ):**
-
-- Anzahl 3D-Objekte  
-- Platzierung & Diversität von Audio  
-- Kombination von Audio/Visual Effects  
-- Nutzung von HDRI & Filtern
-
-**2. Sensorische Kohärenz (qualitativ):**
-
-- Stimmigkeit von Licht, Textur, Soundscape  
-- Keine widersprüchlichen Reize  
-- Realistische Atmosphäre
-
-### Beispiel-Scoreboard (Systemrückmeldung)
-
-- Visuelle Immersion: 8/10  
-- Audio-Immersion: 6.5/10  
-- Kohärenz: 7/10  
-- Kreativität: 9/10  
-- **Gesamtscore: 7.9/10**
 
 ---
 ## Levelübersicht
 
 ### Level 1 – Immersion verstehen lernen  
-- Geführte Erzählung durch den Raum  
-- Vergleich 2D/3D, Audio, Licht und Textur in Vorher-Nachher-Situationen  
-- Interaktives Gestalten eines eigenen immersiven Raums  
-- Systemische Bewertung nach Kriterien (Immersion, Audio, Kohärenz, Kreativität)
+
+Im Tutoriallevel wird der Spieler didaktisch an die Elemente von Immersion schrittweise herangeführt und lernt so die Funktion der Anwendung kennen.
+
+### Ziel
+
+- Kennenlernen der Funktionalitäten
+- Einstieg in die Thematik Immersion
 
 ## Level 2 – Immersion erleben (Best Practice)
 
@@ -185,23 +168,13 @@ Ein Referenzlevel, das gezielt ein hohes Maß an Immersion erzeugt und als Inspi
 - Hochwertige Kombination aller Mittel  
 - Ästhetisches Beispiel für gute Gestaltung
 
-### Inhalte
-
-- Stimmige Lichtstimmung mit HDRI  
-- Glühwürmchen als VFX  
-- Räumlich platzierte Audioquellen (spatialized)  
-- Greifbare/interaktive Elemente  
-- Freies Erkunden  
-- Möglichkeit zum Umschalten von Features (wie in Level 1)
-
-
 ---
 
 
 ## Fazit & Besonderheiten  
 
-- Zwei VR-Level mit hohem multisensorischem Fokus  
-- Schwerpunkt auf aktives Erleben und Gestaltung  
+- Zwei VR-Level mit multisensorischem Fokus  
+- Schwerpunkt auf aktives Erleben und Gestalten  
 - Integration von didaktischen Prinzipien: **Learning by Doing, progressive Steuerung, Feedbacksystem**  
 - Immersive Vermittlung durch Raumakustik, visuelle Interaktion und Haptik  
 
