@@ -16,3 +16,4 @@ Das Projekt wurde mit **Unreal Engine 5.4.4** entwickelt und ist für die Nutzun
 - Daniil Folco
 - Ruwim Merling
 
+APK-Downloadlink: https://drive.google.com/file/d/1MYbviz8zWDQM9XQCX13JEU89CZDC5Tgn/view
